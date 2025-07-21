@@ -1,11 +1,10 @@
+# Hi, I'm Muhammad Hassan
 
-# Hi, I'm Muhammad Hassan 👋
-
-I'm a 2nd year CS student at FAST-NUCES Lahore and a Flutter developer passionate about building real-world, production-ready applications. I focus on solving business problems with clean, scalable, and efficient apps across mobile, web, and desktop.
+I'm a 2nd year CS student at FAST-NUCES lahore and a Flutter developer focused on building real-world, production-ready applications that help automate tasks for businesses, tuition centers, and individuals. I enjoy creating clean UIs, practical backend integrations, and apps that just work — whether for mobile, desktop, or web.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -22,66 +21,56 @@ I'm a 2nd year CS student at FAST-NUCES Lahore and a Flutter developer passionat
 
 ## 📂 Highlighted Projects
 
-### 🛍️ Umme Hassan Clothing – E-Commerce App  
-**A full-featured clothing store built using Flutter & Firebase.**  
-- Product video feed and category-based browsing  
-- Order placement with D7Networks SMS  
-- Bunny.net CDN for media  
-- Android + Web supported  
+### 🛍️ Umme Hassan Clothing – E-Commerce App
+A modern clothing store built with Flutter and Firebase. Includes:
+- Product video-based home feed
+- Order placement system and category browsing
+- D7Networks integration for SMS order confirmation
+- Bunny.net used as media storage CDN
+- Web + Android support
 
-### 🏫 Academify – Tuition Management System  
-**Built for tuition centers to simplify admin work.**  
-- Class-wise student and fee records  
-- One-click batch/individual PDF receipt generation  
-- Attendance + dual-role system (owner/teacher)  
-- Cloud data sync via Firebase  
+### 🏫 Academify – Tuition Management System
+A full-featured Flutter app for tuition centers and academies. Features:
+- Class-wise student records
+- Single and batch fee slip generation with PDF export
+- Attendance management system
+- Teacher view + owner control interface
+- Built using Firebase backend
 
-### 📸 FastGram – C++ + Raylib Social Network App  
-**University project with desktop GUI in C++.**  
-- Instagram-style profile, post, page & friend system  
-- Custom UI with Raylib  
-- File-based local persistence  
+### FastGram C++ + Raylib Social Network App (Semester Project)
+A GUI-based social platform made using:
+- **C++ OOP** and **Raylib** for graphics
+- Profile management, posting, friends/pages system
+- Instagram-like interface with state-based GUI navigation
+- File handling for user data, posts, and interactions
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Broly-1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broly-1&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Broly-1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Broly-1&theme=radical" />
-</p>
-
----
-
-## 🌐 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Broly-1&theme=react-dark&bg_color=20232a&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broly-1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🎯 Goals
 
-- Launch SaaS tools for local markets  
-- Master Flutter animations & native integrations  
-- Work on freelance/real-world projects and open-source tools  
+- Build complete SaaS platforms for local businesses and education  
+- Polish Flutter UI/UX for enterprise-ready apps  
+- Grow my freelance + client project portfolio
 
 ---
 
 ## 📫 Contact
 
-- 📧 hassangaming111@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hassankamran3)
+- 📧 Email: hassangaming111@gmail.com  
+- 🔗 LinkedIn: [www.linkedin.com/in/hassankamran3](https://www.linkedin.com/in/hassankamran3)
 
 ---
 
-> 💡 Each repo here reflects a real solution to a real-world problem. Dive in, explore, and feel free to reach out!
+> Feel free to explore my repositories — each one is a step toward solving real problems with clean and usable software.
