@@ -61,7 +61,6 @@ A GUI-based social platform made using:
 ## 🎯 Goals
 
 - Build complete SaaS platforms for local businesses and education  
-- Improve backend systems and learn scalable cloud deployments  
 - Polish Flutter UI/UX for enterprise-ready apps  
 - Grow my freelance + client project portfolio
 
