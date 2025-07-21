@@ -37,7 +37,7 @@ A full-featured Flutter app for tuition centers and academies. Features:
 - Teacher view + owner control interface
 - Built using Firebase backend
 
-### 🎮 C++ + Raylib Social Network App (Semester Project)
+### FastGram C++ + Raylib Social Network App (Semester Project)
 A GUI-based social platform made using:
 - **C++ OOP** and **Raylib** for graphics
 - Profile management, posting, friends/pages system
