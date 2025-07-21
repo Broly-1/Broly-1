@@ -1,7 +1,5 @@
 # Hi, I'm Muhammad Hassan
 
-![Profile Views](https://komarev.com/ghpvc/?username=Broly-1&style=flat-square)
-
 I'm a Flutter developer focused on building real-world, production-ready applications that help automate tasks for businesses, tuition centers, and individuals. I enjoy creating clean UIs, practical backend integrations, and apps that just work — whether for mobile, desktop, or web.
 
 ---
