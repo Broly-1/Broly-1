@@ -72,7 +72,7 @@ A GUI-based social platform made using:
 ## 📫 Contact
 
 - 📧 Email: hassangaming111@gmail.com  
-- 🔗 LinkedIn: [www.linkedin.com/in/hassankamran](https://www.linkedin.com/in/hassankamran)
+- 🔗 LinkedIn: [www.linkedin.com/in/hassankamran3](https://www.linkedin.com/in/hassankamran3)
 
 ---
 
