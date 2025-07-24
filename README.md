@@ -10,7 +10,6 @@ I'm a 2nd year CS student at FAST-NUCES lahore and a Flutter developer focused o
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Bunny.net](https://img.shields.io/badge/Bunny.net-FF7A00?style=for-the-badge&logoColor=white)
-![D7Networks](https://img.shields.io/badge/D7Networks-SMS?style=for-the-badge&color=blueviolet)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
