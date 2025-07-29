@@ -24,7 +24,7 @@ I'm a 2nd year CS student at FAST-NUCES lahore and a Flutter developer focused o
 A modern clothing store built with Flutter and Firebase. Includes:
 - Product video-based home feed
 - Order placement system and category browsing
-- D7Networks integration for SMS order confirmation
+- h3 tech integration for SMS order confirmation
 - Bunny.net used as media storage CDN
 - Web + Android support
 
