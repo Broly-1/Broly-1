@@ -190,7 +190,7 @@ Acting as lead developer for a production eCommerce platform, owning the full SD
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Broly-1&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Broly-1&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
