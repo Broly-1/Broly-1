@@ -1,3 +1,4 @@
+<a name="top"></a>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=200&section=header&text=Hassan%20Kamran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Flutter%20/%20React&descAlignY=55&descSize=18" width="100%"/>
@@ -16,6 +17,13 @@
 ![Followers](https://img.shields.io/github/followers/Broly-1?style=for-the-badge&color=6D28D9&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/Broly-1?style=for-the-badge&color=4C1D95&labelColor=1a1a2e)
 
+&nbsp;
+
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Engineering-1a1a2e?style=flat-square&labelColor=4C1D95)
+![Shipped](https://img.shields.io/badge/Projects%20Shipped-5-1a1a2e?style=flat-square&labelColor=6D28D9)
+![Reach](https://img.shields.io/badge/Users%20Reached-600%2B-1a1a2e?style=flat-square&labelColor=7C3AED)
+![Grad](https://img.shields.io/badge/Graduating-2028-1a1a2e?style=flat-square&labelColor=4C1D95)
+
 </div>
 
 ---
@@ -24,11 +32,15 @@
 
 I'm a Computer Science student at **FAST-NUCES Lahore**, working across the full stack — from Flutter and React front ends to Firebase and T-SQL backends — with a focus on shipping **production software that real businesses depend on**, not just class projects.
 
-I lead end-to-end development on **Umme Hassan Clothing**, a live eCommerce platform on iOS, Android, and Web with 600+ organic users, and I've built management and marketplace tools (tuition-center software, a freelance marketplace) that solve concrete operational problems. On the research side, I'm exploring **Graph Neural Networks** for financial anomaly detection, and I lean on AI-assisted engineering workflows to move faster without cutting corners on architecture.
+- 🛍️ Lead developer on **Umme Hassan Clothing**, a live eCommerce platform on iOS, Android & Web with 600+ organic users — currently expanding the site and driving its digital marketing (Meta catalogue, Google SEO)
+- 🏫 Built operational tools for real users — tuition-center management, a freelance marketplace
+- ⚡ Use AI-assisted engineering workflows to move faster without cutting corners on architecture
 
 ```yaml
 🎯 Open To: Full-stack / Flutter internships, freelance product work, and applied ML collaborations
 ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -57,28 +69,24 @@ I lead end-to-end development on **Umme Hassan Clothing**, a live eCommerce plat
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
-
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Graph Neural Networks | Applied / Research | Building **GML-Audit**, a GNN-based framework to detect circular currency-laundering patterns and high-risk transaction clusters in virtual economies |
-| AI-Assisted Engineering | Practitioner | Using AI design/dev agents (Antigravity, Stitch) to accelerate UI/UX iteration and ship production features faster |
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📂 Featured Projects
 
-<details>
+<details open>
 <summary><b>🛍️ Umme Hassan Clothing — Production eCommerce Platform</b></summary>
 <br>
 
 Lead developer on a live clothing storefront spanning iOS, Android, and Web, from requirement analysis through deployment.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bunny.net](https://img.shields.io/badge/Bunny.net-FF7A00?style=flat-square)
+
 | | |
 |---|---|
-| **Stack** | Flutter, Firebase Firestore, Bunny.net CDN, h3 SMS integration |
 | **Scale** | 600+ organic users across three platforms |
 | **Performance** | Real-time inventory & order sync via Firestore |
 | **Security** | Social authentication + Firebase security rules |
@@ -93,9 +101,12 @@ Lead developer on a live clothing storefront spanning iOS, Android, and Web, fro
 
 A web marketplace with complex user roles and a bidding system, built for speed with AI-assisted UI iteration.
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
 | | |
 |---|---|
-| **Stack** | React, Vite, T-SQL |
 | **Scale** | Multi-role marketplace (clients, freelancers, bidding flow) |
 | **Performance** | Optimized state management and component modularization |
 | **Security** | Relational schema designed for secure project tracking & transaction logs |
@@ -110,30 +121,15 @@ A web marketplace with complex user roles and a bidding system, built for speed 
 
 A Flutter + Firebase system that digitizes attendance and record-keeping for local educational centers.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 | | |
 |---|---|
-| **Stack** | Flutter, Firebase |
 | **Scale** | Class-wise records across multiple student batches |
 | **Performance** | Single & batch fee-slip generation with PDF export |
 | **Security** | Role-based owner / teacher access |
 | **Impact** | Replaces manual attendance & fee tracking for tuition centers |
-| **Repository** | *[add link]* |
-
-</details>
-
-<details>
-<summary><b>🔍 GML-Audit — Currency Laundering Detection</b></summary>
-<br>
-
-Research project applying graph neural networks to flag laundering patterns in virtual-economy transaction data.
-
-| | |
-|---|---|
-| **Stack** | Python, Graph Neural Networks |
-| **Scale** | Graph-based modeling over transaction networks |
-| **Performance** | Graph traversal algorithms for anomaly clustering |
-| **Security** | N/A — research/detection tooling |
-| **Impact** | Framework for identifying circular laundering patterns & high-risk clusters |
 | **Repository** | *[add link]* |
 
 </details>
@@ -144,16 +140,39 @@ Research project applying graph neural networks to flag laundering patterns in v
 
 A GUI-based social platform built as a semester project, simulating an Instagram-like experience.
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square)
+
 | | |
 |---|---|
-| **Stack** | C++ (OOP), Raylib |
 | **Scale** | Profile management, posting, friends/pages system |
 | **Performance** | State-based GUI navigation |
-| **Security** | File-based persistence for user data, posts, and interactions |
+| **Security** | Local file-based persistence, no network exposure |
 | **Impact** | Full OOP application built from scratch — no game/UI engine beyond Raylib |
 | **Repository** | *[add link]* |
 
 </details>
+
+<details>
+<summary><b>🔍 GML-Audit — Currency Laundering Detection <i>(University Project)</i></b></summary>
+<br>
+
+A university coursework project applying graph neural networks to explore laundering-pattern detection in virtual-economy transaction data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-4C1D95?style=flat-square)
+
+| | |
+|---|---|
+| **Scale** | Graph-based modeling over transaction networks |
+| **Performance** | Graph traversal algorithms for anomaly clustering |
+| **Security** | Research-stage — not yet deployed to production |
+| **Impact** | Coursework framework for identifying circular laundering patterns & high-risk clusters |
+| **Repository** | *[add link]* |
+
+</details>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -171,26 +190,15 @@ Acting as lead developer for a production eCommerce platform, owning the full SD
 
 `Flutter` `Firebase` `Firestore` `Bunny.net` `Admin Tooling`
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Broly-1&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broly-1&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="48%"/>
-
 <img src="https://streak-stats.demolab.com?user=Broly-1&theme=midnight-purple&hide_border=true&background=0D1117" width="80%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Broly-1&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -214,13 +222,14 @@ Acting as lead developer for a production eCommerce platform, owning the full SD
 
 </div>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## 🎯 Current Focus
 
 ```yaml
-learning:  Graph Neural Networks for anomaly & fraud detection
-building:  FastLance — a freelance marketplace with T-SQL backend
+building:  Umme Hassan Clothing — expanding the site & running its digital marketing (Meta catalogue, Google SEO)
 exploring: AI-assisted product engineering workflows (Antigravity, Stitch)
 open_to:   Full-stack / Flutter internships & freelance product work
 ```
